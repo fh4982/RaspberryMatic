@@ -38,6 +38,7 @@ usb: true
 uart: true
 kernel_modules: true
 realtime: true
+host_network: true
 ports:
   22/tcp: null
   80/tcp: null
